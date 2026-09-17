@@ -36,7 +36,7 @@ Teammates are used to the status quo, and we must engage with this reality to wo
 
 Specifically, for every critique of no-build based in fact, the critique must be paired with an analoguous critique of the proposed system.
 
-Sometimes, we can explicitly prefer a design that improves some dimensions at the expense of other dimensions, and enumerating the dimensions is part of validating understanding.
+#### Corollary: every design improves some dimensions at the expense of other dimensions, and enumerating realistically solid pros and cons is part of validating understanding.
 
 ### tbd
 
