@@ -1,6 +1,6 @@
 # A technical design doc has explicit readiness criteria.
 
-## We are writing for stronger collaboration, for validated understanding, and for faster execution.
+## Rationale: We are writing for stronger collaboration, for validated understanding, and for faster execution.
 
 Sharing a spec across the team (and/or across divisions) challenges your thinking and stress tests your assumptions. We build better when we work together.
 
@@ -8,9 +8,9 @@ Validating understanding of the problem means pre-planning. By pre-planning, you
 
 The better specified the work is, the more quickly the work can be executed.
 
-## Invariants
+## At every stage, a technical design must always meet certain criteria.
 
-Each invariant relates to one or more of the readiness criteria.
+Each invariant relates to the Rationale.
 
 ### Every fact must be true.
 
