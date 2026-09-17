@@ -20,11 +20,11 @@ If the thinking that led to the design doc led to `assert(false)`, then this exe
 
 If a teammate cannot check your work without spending a signficant amount of effort, then we are less effective working together.
 
-Corollary: every quote must be real.
+#### Corollary: every quote must be real.
 
-Corollary: every metaphor is an assertion of "A is like B", and this assertion must also be true.
+#### Corollary: every metaphor is an assertion of "A is like B", and this assertion must also be true.
 
-Two of AngelList's values are "Sweat the details", and "Hold ourselves accountable".
+#### Two of AngelList's values are "Sweat the details", and "Hold ourselves accountable".
 
 ### The no-build alternative must be uncompelling.
 
